@@ -1,0 +1,15 @@
+img{
+    height:80px;
+    width:150px;
+    padding-left:3px;
+    width:100%;
+}
+
+.notice{
+    display:flex;
+    background-color: rgb(201, 187, 187);
+    width:430px;
+    height:40px;
+    margin-left:0;
+    align-items:center;
+}
