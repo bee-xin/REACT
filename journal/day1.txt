@@ -1,4 +1,0 @@
-What we learnt today: (december 22)
-1. camelCase and pascal
-2. hooks( useState and useEffect)
-3. brief description of props

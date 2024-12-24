@@ -1,4 +1,0 @@
-23rd december
-1. hook => useState
-2. events( onclick event and onchange, onleave event) 
-4.
