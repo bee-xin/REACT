@@ -1,4 +1,23 @@
-img .main{
-    width:320px;
-    height:100%;
+.image{
+    width:535px;
+    height:350px !important;
+    margin-top:20px;
+    margin-left:10px;
+    margin-right:10px;
+    border-radius:12px;
+}
+div.Introduction{
+    background-color:blue;
+    width:565px;
+    padding:18px;
+    display:flex;
+    flex-direction:column;
+}
+div.Introduction .Intro{
+    text-align:center;
+    background-color:aliceblue;
+}
+div.Introduction p{
+    text-align: justify;
+    background-color:red;
 }

@@ -1,24 +1,16 @@
-import { useState } from "react";
-import Header from "./header"
-import Section from "./section"
-import About from "./About";
-
+import Header from "./Header"
+import Section from "./Section"
+import About from "./About"
+import Awe from "./Awe"
+import "./App.css"
 function App() {
-
-  const sangram=100;
-  const [state,setState]= useState();
-
-  const func=()=>{
-
-  }
-
   return (
     <>
-    <Header/>
+  <Header/>
     <Section/>
     <About/>
+    <Awe/>
     </>
   )
 }
-
 export default App
